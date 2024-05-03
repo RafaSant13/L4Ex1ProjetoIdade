@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">L4Ex1ProjetoIdade</string>
+    <string name="dia">Dia</string>
+    <string name="mes">Mês</string>
+    <string name="ano">Ano</string>
+    <string name="calcular">Calcular</string>
+    <string name="anoRes">  anos,  </string>
+    <string name="mesRes">  meses e  </string>
+    <string name="diaRes">  dias</string>
+    <string name="erro">Data Inválida</string>
+</resources>
